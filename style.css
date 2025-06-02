@@ -30,7 +30,7 @@ section {
 
 .inicio-fundo {
     /* aula 3 */
-    background-image: url('img/4965007.jpg');
+    background-image: url('ihttps://img.freepik.com/fotos-gratis/mulheres-felizes-abracando-um-tiro-medio_23-2149061553.jpg?ga=GA1.1.945071242.1748862261&semt=ais_hybrid&w=740');
     /* Substitua pelo caminho da sua imagem */
     background-size: cover;
     background-position: right;
@@ -79,8 +79,8 @@ section {
     padding-top: 5rem;
     margin-top: 3rem;
     margin-bottom: 3rem;
-    background: url('img/flor.png') top right no-repeat,
-        url('img/flor-esquerda.png') bottom left no-repeat;
+    background: url('https://img.freepik.com/vetores-gratis/buque-floral-rosa-azul-com-aquarela_65186-3066.jpg?ga=GA1.1.945071242.1748862261&semt=ais_hybrid&w=740') top right no-repeat,
+        url('https://img.freepik.com/vetores-premium/ornamento-decorativo-de-folhagem-floral-para-convite-de-casamento_300709-3743.jpg?ga=GA1.1.945071242.1748862261&semt=ais_hybrid&w=740') bottom left no-repeat;
     background-size: 180px 180px;
     /* Ajuste o tamanho conforme necessário */
 }
@@ -108,7 +108,7 @@ h2 {
 }
 
 .fundo-galeria {
-    background: url('img/flor-bottom-direita.png') bottom right no-repeat;
+    background: url('https://img.freepik.com/vetores-gratis/arranjo-floral-em-aquarela-buque-de-flores-em-aquarela-rosa-rosa-e-amarelo-para-casamento_41066-3696.jpg?ga=GA1.1.945071242.1748862261&semt=ais_hybrid&w=740') bottom right no-repeat;
     background-size: 180px 180px;
 }
 
